@@ -16,6 +16,10 @@ Run
 
 > mvn jetty:run
 
+And open this location in browser
+
+> http://localhost:8080/hello/mvc
+
 
 
 
