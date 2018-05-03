@@ -1,5 +1,7 @@
 # spring mvc study
 
+bulabulabula
+
 Purpose
 -------
 This doc is provided for "spring-mvc-study".
